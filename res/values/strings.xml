@@ -3084,6 +3084,32 @@
     <!-- User dictionary settings. The text to show for the option that shows the entire list of supported locales to choose one [CHAR LIMIT=30] -->
     <string name="user_dict_settings_more_languages">More languages…</string>
 
+
+<!-- Status bar  -->
+<string name="status_bar_title">Status bar</string>
+<string name="status_bar_clock_title">Clock</string>
+<string name="status_bar_general_title">General</string>
+<string name="status_bar_show_clock_title">Show clock</string>
+<string name="status_bar_am_pm_title">AM/PM style</string>
+<string name="status_bar_am_pm_info">24-hour clock is enabled</string>
+<string name="status_bar_battery_title">Battery status style</string>
+<string name="status_bar_toggle_brightness">Brightness control</string>
+<string name="status_bar_toggle_brightness_summary">Adjust brightness by sliding across status bar</string>
+<string name="status_bar_toggle_info">Automatic brightness is enabled</string>
+<string name="status_bar_signal_text_title">Signal status style</string>
+<string name="status_bar_style_icon">Icon</string>
+<string name="status_bar_style_hidden">Hidden</string>
+<string name="status_bar_signal_text_show_text">Text</string>
+<string name="status_bar_battery_status_percentage">Percentage</string>
+<string name="status_bar_battery_status_circle">Circle</string>
+<string name="status_bar_battery_status_circle_percentage">Circle with percentage</string>
+<string name="status_bar_battery_status_circle_percentage">Circle with percentage</string>
+
+<!-- Status bar notification count -->
+<string name="status_bar_notif_count_title">Show notification count</string>
+<string name="status_bar_notif_count_summary">Display number of pending notifications</string>
+
+
     <!-- This is for diagnostics screen. The title of a screen with various items realted to launching screens that will giev the user info. For example, it contains "Phone information" and "Battery information" -->
     <string name="testing">Testing</string>
     <!-- In the Testing screen.  The item title of the activity that shows a bunch of phone-related information.  -->
